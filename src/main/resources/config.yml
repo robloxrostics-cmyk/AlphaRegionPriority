@@ -1,0 +1,17 @@
+settings:
+  priority: 1
+  check-interval-ticks: 20
+  exclude-global: true
+
+flags:
+  pvp: DENY
+  tnt: DENY
+  creeper-explosion: DENY
+  mob-spawning: DENY
+  fire-spread: DENY
+  lava-fire: DENY
+
+messages:
+  prefix: "&6AlphaGrief &8» &7"
+  reload: "&aНастройки перезагружены!"
+  no-permission: "&cНедостаточно прав!"
